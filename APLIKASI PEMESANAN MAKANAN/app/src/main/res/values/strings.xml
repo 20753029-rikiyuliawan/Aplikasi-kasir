@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_activity">Ini adalah Activity</string>
+    <string name="this_fragment">Ini adalah Fragment</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukan Kata</string>
+</resources>
